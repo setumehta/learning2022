@@ -1,0 +1,7 @@
+print("hello")
+print("my name is setu mehta")
+print("i am learing python")
+name=input("enter your name :")
+print(name)
+a=input('this is a variable')
+print(a)
